@@ -1,16 +1,13 @@
-# products_page_design
+# Overview
+This Flutter project features a simple and modern products page design, created for a class assignment. It showcases a list of products with images, names, descriptions, and prices using Material Design components.
 
-A Flutter app displaying a list of products with images, descriptions, and prices using Material Design components.
+<img src="https://raw.githubusercontent.com/aanaahitaa/CodeToInspire_ProductsPageDesign/master/Screenshot_ProductsPageDesign.png" alt="Products Page Screenshot" width="100"/>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Features
+Product Cards: Displays product details in clean and organized Material Design cards.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Responsive Layout: Adapts well to different screen sizes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Easy Customization: Allows simple modification and addition of products.
